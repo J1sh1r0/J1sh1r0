@@ -42,30 +42,30 @@
 
 ### 📊 Métricas de GitHub
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=J1sh1r0&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1sh1r0&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=J1sh1r0&theme=tokyonight&hide_border=false" />
 </p>
 
 <!-- Trofeos -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=J1sh1r0&theme=onedark&row=1&column=6&margin-w=10&margin-h=10" />
 </p>
 
 <!-- Gráfica de actividad -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=J1sh1r0&theme=react-dark&hide_border=false" />
 </p>
 
 ---
 
 ### 🚀 Proyectos Destacados
-- 🔧 **[Proyecto .NET / ASP.NET](https://github.com/TU_USUARIO/REPO_1)** – API con autenticación, CRUD y pruebas.  
-- 🌐 **[Panel Vue/Nuxt + MongoDB](https://github.com/TU_USUARIO/REPO_2)** – Panel administrativo con filtros y estadísticas.  
-- 🗄️ **[ETL / Data Tools](https://github.com/TU_USUARIO/REPO_3)** – Scripts para integración con SQL Server/MySQL/Mongo.
+- 🔧 **[Proyecto .NET / ASP.NET](https://github.com/J1sh1r0/REPO_1)** – API con autenticación, CRUD y pruebas.  
+- 🌐 **[Panel Vue/Nuxt + MongoDB](https://github.com/J1sh1r0/REPO_2)** – Panel administrativo con filtros y estadísticas.  
+- 🗄️ **[ETL / Data Tools](https://github.com/J1sh1r0/REPO_3)** – Scripts para integración con SQL Server/MySQL/Mongo.
 
 > 💡 Fija (Pin) 6 repos en tu perfil con buenas descripciones, capturas y README de cada proyecto.
 
